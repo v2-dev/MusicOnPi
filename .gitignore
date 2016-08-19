@@ -1,4 +1,4 @@
-*.aux
+/Presentazione/*.aux
 *.bbl
 *.blg
 *.log
